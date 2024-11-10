@@ -142,3 +142,6 @@ if __name__ == "__main__":
 ```
 All those Doctors on there and you didn't thunk too hire one to be able to stop me. 🤣🤣🤣
 
+![Attck PoC in terminal.](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241110-000810.png)
+
+![Scraper pulling links for other resources](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241110-000824.png)
