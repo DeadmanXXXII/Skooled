@@ -5,7 +5,6 @@
 
 Description: This report describes a Distributed Denial of Service (DDoS) attack targeting academia.edu, where multiple requests are generated to exhaust server resources. The attack leverages randomized URL generation, multiple proxy addresses, and varying user-agent headers to bypass rate-limiting mechanisms. By generating high-volume requests in rapid succession, the attack attempts to exhaust server resources, resulting in a denial of service for legitimate users.
 
-All those Doctors on there and you didn't thunk too hire one to be able to stop me. 🤣🤣🤣
 
 ---
 
