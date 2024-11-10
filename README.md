@@ -1,5 +1,5 @@
 # Skooled
-Ddos for Academie.edu
+Ddos for Academina.edu
 
 Title: DDoS by Resource Exhaustion Using Proxies and User Agents Bypassing Rate Limits
 
