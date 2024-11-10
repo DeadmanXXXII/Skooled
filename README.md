@@ -5,6 +5,7 @@
 
 Description: This report describes a Distributed Denial of Service (DDoS) attack targeting academia.edu, where multiple requests are generated to exhaust server resources. The attack leverages randomized URL generation, multiple proxy addresses, and varying user-agent headers to bypass rate-limiting mechanisms. By generating high-volume requests in rapid succession, the attack attempts to exhaust server resources, resulting in a denial of service for legitimate users.
 
+All those Doctors on there and you didn't thunk too hire one to be able to stop me. 🤣🤣🤣
 
 ---
 
@@ -140,8 +141,9 @@ if __name__ == "__main__":
     num_threads = 50000  # Adjust the number of concurrent requests as needed
     run_concurrent_requests(num_threads)
 ```
-All those Doctors on there and you didn't thunk too hire one to be able to stop me. 🤣🤣🤣
 
 ![Attck PoC in terminal.](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241110-000810.png)
 
-![Scraper pulling links for other resources](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241110-000824.png)
+![Attack underway to test.](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241110-000824.png)
+
+![🤣🤣 Oh well that was easy.](https://raw.githubusercontent.com/DeadmanXXXII/Skooled/main/Screenshot_20241109-235531.png)
